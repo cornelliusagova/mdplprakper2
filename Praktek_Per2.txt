@@ -3,3 +3,5 @@ Pertemuan 1
 - Pengantar MDPL Praktik 
 - Life Cycle MDPL
 - Jenis Jenis MDPL
+Materi pertemuan 2 
+- praktek
